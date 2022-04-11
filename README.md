@@ -32,18 +32,16 @@ Start Game:
 ![start](https://user-images.githubusercontent.com/72298689/162764163-a41535e8-63ed-4a58-a272-afb10c96a296.jpg)
 Game Board:
 ![board](https://user-images.githubusercontent.com/72298689/162764112-4a15a653-9e71-4131-bbdb-4532685f6e42.jpg)
-View Assets Feature:
-![assets](https://user-images.githubusercontent.com/72298689/162764108-3f5da952-7d9f-4565-b6b6-f62cbe31ed20.jpg)
 Buy:
 ![buy](https://user-images.githubusercontent.com/72298689/162764113-09263e9c-05dc-4ba3-a686-0cf5a91892b2.jpg)
+View Assets Feature:
+![assets](https://user-images.githubusercontent.com/72298689/162764108-3f5da952-7d9f-4565-b6b6-f62cbe31ed20.jpg)
 Auction:
 ![auction](https://user-images.githubusercontent.com/72298689/162764110-2e77d2f9-c04d-4500-b748-b902f16c1acf.jpg)
 Chance:
 ![chance](https://user-images.githubusercontent.com/72298689/162764115-45be4f36-1be0-46da-b09c-30625fed0839.jpg)
 Community Chest Cards:
 ![communitychest](https://user-images.githubusercontent.com/72298689/162764118-740504d3-756f-4eda-984d-d06e7e28ccc1.jpg)
-Manage:
-![manage](https://user-images.githubusercontent.com/72298689/162764129-db22756c-9bb3-44d8-9682-05454fe1a28c.jpg)
 Trade Function:
 ![trade](https://user-images.githubusercontent.com/72298689/162764169-b6748542-f845-4efe-b2a7-a493d1e55f01.jpg)
 Resign:
