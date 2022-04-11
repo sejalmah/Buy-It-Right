@@ -1,0 +1,186 @@
+*{
+    /* background-image: url("images/monopolyfront.png"); */
+    
+  }
+
+body{
+    background-image: url('images/monopolyfront.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+#cell20{
+	/* background: linear-gradient(
+	to bottom,
+	#5d9634,
+	#5d9634 50%,
+	#538c2b 50%,
+	#538c2b
+  ); */
+  /* The rectangle in which to repeat. 
+	 It can be fully wide in this case */
+  /* background-size: 10px; */
+
+  background: repeating-linear-gradient(
+  to right,
+  #5e3209,
+  #945a18 10px,
+  #351f0b 10px,
+  #c7803d 20px
+);
+  }
+
+#cell19{
+	background: #FFA500;
+}
+#cell18{
+	background: #FFA500;
+}
+#cell17{
+	background: white;
+  color: black;
+}
+#cell16{
+  background: #FFA500;
+}
+#cell15{
+	background: white;
+  color: black;
+}
+#cell14{
+  background: #FF0080;
+}
+#cell13{
+  background: #FF0080;
+}
+#cell12{
+	background: white;
+  color: black;
+}
+#cell11{
+  background: #FF0080;
+}
+#cell10{
+  background: repeating-linear-gradient(
+  to right,
+  #222120,
+  #3f3932 10px,
+  #222120 10px,
+  #3f3932 20px
+);
+}
+#cell9{
+  background: #87CEEB;
+  color: black;
+}
+#cell8{
+  background: #87CEEB;
+  color: black;
+}
+#cell7{
+	background: white;
+  color: black;
+}
+#cell6{
+  background: #87CEEB;
+  color: black;
+}
+#cell5{
+	background: white;
+  color: black;
+}
+#cell4{
+	background: white;
+  color: black;
+}
+#cell3{
+  background: #8B4513;
+
+}
+#cell2{
+	background: white;
+  color: black;
+}
+#cell1{
+  background: #8B4513;
+  
+}
+#cell39{
+  background: #0000FF;
+}
+#cell38{
+	background: white;
+  color: black;
+}
+#cell37{
+  background: #0000FF;
+}
+#cell36{
+	background: white;
+  color: black;
+}
+#cell35{
+	background: white;
+  color: black;
+}
+#cell34{
+  background: #008000;
+}
+#cell33{
+	background: white;
+  color: black;
+}
+#cell32{
+  background: #008000;
+}
+#cell31{
+  background: #008000;
+}
+#cell30{
+  background: repeating-linear-gradient(
+  to right,
+  #222120,
+  #3f3932 10px,
+  #222120 10px,
+  #3f3932 20px
+);
+}
+#cell29{
+  background: #FFFF00;
+  color: black;
+}
+#cell28{
+	background: white;
+  color: black;
+}
+#cell27{
+  background: #FFFF00;
+  color: black;
+}
+#cell26{
+  background: #FFFF00;
+  color: black;
+}
+#cell25{
+	background: white;
+  color: black;
+}
+#cell24{
+  background: #FF0000;
+}
+#cell23{
+  background: #FF0000;
+}
+#cell22{
+	background: white;
+  color: black;
+}
+#cell21{
+  background: #FF0000;
+}
+#cell0{
+	background: white;
+  color: black;
+}
