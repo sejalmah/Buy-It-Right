@@ -15,7 +15,7 @@ Features of the Game:
 
 Process To Deploy:
 
-1. Download the zip folder of the project.
+1. Download the zip of Monopoly folder from the project.
 2. Deploy it on the sites page of netlify.
 3. Deployed Link : https://buy-it-right-project.netlify.app/
 
